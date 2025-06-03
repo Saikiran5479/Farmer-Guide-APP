@@ -1,0 +1,401 @@
+crop,days_since_planting,stage,suggested_task
+paddy,56,Vegetative,Apply fertilizer and irrigation
+paddy,14,Nursery Phase,Water nursery regularly
+paddy,5,Sowing,Prepare nursery bed
+paddy,61,Flowering,Monitor for pests and diseases
+paddy,63,Flowering,Monitor for pests and diseases
+paddy,6,Sowing,Prepare nursery bed
+paddy,70,Flowering,Monitor for pests and diseases
+paddy,59,Vegetative,Apply fertilizer and irrigation
+paddy,2,Sowing,Prepare nursery bed
+paddy,5,Sowing,Prepare nursery bed
+paddy,47,Vegetative,Apply fertilizer and irrigation
+paddy,29,Transplantation,Transplant seedlings to field
+paddy,5,Sowing,Prepare nursery bed
+paddy,19,Nursery Phase,Water nursery regularly
+paddy,8,Sowing,Prepare nursery bed
+paddy,25,Transplantation,Transplant seedlings to field
+paddy,23,Transplantation,Transplant seedlings to field
+paddy,38,Vegetative,Apply fertilizer and irrigation
+paddy,3,Sowing,Prepare nursery bed
+paddy,44,Vegetative,Apply fertilizer and irrigation
+paddy,52,Vegetative,Apply fertilizer and irrigation
+paddy,35,Vegetative,Apply fertilizer and irrigation
+paddy,1,Sowing,Prepare nursery bed
+paddy,3,Sowing,Prepare nursery bed
+paddy,75,Flowering,Monitor for pests and diseases
+paddy,2,Sowing,Prepare nursery bed
+paddy,29,Transplantation,Transplant seedlings to field
+paddy,85,Flowering,Monitor for pests and diseases
+paddy,28,Transplantation,Transplant seedlings to field
+paddy,26,Transplantation,Transplant seedlings to field
+paddy,10,Nursery Phase,Water nursery regularly
+paddy,22,Transplantation,Transplant seedlings to field
+paddy,54,Vegetative,Apply fertilizer and irrigation
+paddy,25,Transplantation,Transplant seedlings to field
+paddy,7,Sowing,Prepare nursery bed
+paddy,9,Sowing,Prepare nursery bed
+paddy,25,Transplantation,Transplant seedlings to field
+paddy,14,Nursery Phase,Water nursery regularly
+paddy,25,Transplantation,Transplant seedlings to field
+paddy,6,Sowing,Prepare nursery bed
+paddy,57,Vegetative,Apply fertilizer and irrigation
+paddy,27,Transplantation,Transplant seedlings to field
+paddy,18,Nursery Phase,Water nursery regularly
+paddy,76,Flowering,Monitor for pests and diseases
+paddy,40,Vegetative,Apply fertilizer and irrigation
+paddy,66,Flowering,Monitor for pests and diseases
+paddy,76,Flowering,Monitor for pests and diseases
+paddy,19,Nursery Phase,Water nursery regularly
+paddy,90,Flowering,Monitor for pests and diseases
+paddy,2,Sowing,Prepare nursery bed
+paddy,29,Transplantation,Transplant seedlings to field
+paddy,59,Vegetative,Apply fertilizer and irrigation
+paddy,60,Flowering,Monitor for pests and diseases
+paddy,48,Vegetative,Apply fertilizer and irrigation
+paddy,63,Flowering,Monitor for pests and diseases
+paddy,16,Nursery Phase,Water nursery regularly
+paddy,44,Vegetative,Apply fertilizer and irrigation
+paddy,6,Sowing,Prepare nursery bed
+paddy,59,Vegetative,Apply fertilizer and irrigation
+paddy,14,Nursery Phase,Water nursery regularly
+paddy,24,Transplantation,Transplant seedlings to field
+paddy,24,Transplantation,Transplant seedlings to field
+paddy,75,Flowering,Monitor for pests and diseases
+paddy,87,Flowering,Monitor for pests and diseases
+paddy,13,Nursery Phase,Water nursery regularly
+paddy,23,Transplantation,Transplant seedlings to field
+paddy,30,Vegetative,Apply fertilizer and irrigation
+paddy,60,Flowering,Monitor for pests and diseases
+paddy,23,Transplantation,Transplant seedlings to field
+paddy,25,Transplantation,Transplant seedlings to field
+paddy,16,Nursery Phase,Water nursery regularly
+paddy,23,Transplantation,Transplant seedlings to field
+paddy,73,Flowering,Monitor for pests and diseases
+paddy,42,Vegetative,Apply fertilizer and irrigation
+paddy,78,Flowering,Monitor for pests and diseases
+paddy,2,Sowing,Prepare nursery bed
+paddy,10,Nursery Phase,Water nursery regularly
+paddy,53,Vegetative,Apply fertilizer and irrigation
+paddy,6,Sowing,Prepare nursery bed
+paddy,25,Transplantation,Transplant seedlings to field
+paddy,22,Transplantation,Transplant seedlings to field
+paddy,50,Vegetative,Apply fertilizer and irrigation
+paddy,16,Nursery Phase,Water nursery regularly
+paddy,11,Nursery Phase,Water nursery regularly
+paddy,14,Nursery Phase,Water nursery regularly
+paddy,17,Nursery Phase,Water nursery regularly
+paddy,16,Nursery Phase,Water nursery regularly
+paddy,3,Sowing,Prepare nursery bed
+paddy,45,Vegetative,Apply fertilizer and irrigation
+paddy,0,Sowing,Prepare nursery bed
+paddy,3,Sowing,Prepare nursery bed
+paddy,40,Vegetative,Apply fertilizer and irrigation
+paddy,9,Sowing,Prepare nursery bed
+paddy,40,Vegetative,Apply fertilizer and irrigation
+paddy,29,Transplantation,Transplant seedlings to field
+paddy,5,Sowing,Prepare nursery bed
+paddy,39,Vegetative,Apply fertilizer and irrigation
+paddy,8,Sowing,Prepare nursery bed
+paddy,17,Nursery Phase,Water nursery regularly
+paddy,10,Nursery Phase,Water nursery regularly
+maize,2,Germination,Keep soil moist
+maize,67,Silking,Protect from pests
+maize,54,Silking,Protect from pests
+maize,80,Maturity,Prepare for harvest
+maize,96,Maturity,Prepare for harvest
+maize,55,Silking,Protect from pests
+maize,30,Vegetative,Apply nitrogen fertilizer
+maize,44,Tasseling,Ensure proper pollination
+maize,63,Silking,Protect from pests
+maize,69,Silking,Protect from pests
+maize,0,Germination,Keep soil moist
+maize,36,Tasseling,Ensure proper pollination
+maize,31,Tasseling,Ensure proper pollination
+maize,61,Silking,Protect from pests
+maize,71,Maturity,Prepare for harvest
+maize,0,Germination,Keep soil moist
+maize,46,Tasseling,Ensure proper pollination
+maize,14,Vegetative,Apply nitrogen fertilizer
+maize,69,Silking,Protect from pests
+maize,46,Tasseling,Ensure proper pollination
+maize,92,Maturity,Prepare for harvest
+maize,56,Silking,Protect from pests
+maize,48,Tasseling,Ensure proper pollination
+maize,50,Tasseling,Ensure proper pollination
+maize,4,Germination,Keep soil moist
+maize,12,Vegetative,Apply nitrogen fertilizer
+maize,47,Tasseling,Ensure proper pollination
+maize,63,Silking,Protect from pests
+maize,23,Vegetative,Apply nitrogen fertilizer
+maize,17,Vegetative,Apply nitrogen fertilizer
+maize,26,Vegetative,Apply nitrogen fertilizer
+maize,47,Tasseling,Ensure proper pollination
+maize,15,Vegetative,Apply nitrogen fertilizer
+maize,1,Germination,Keep soil moist
+maize,49,Tasseling,Ensure proper pollination
+maize,45,Tasseling,Ensure proper pollination
+maize,25,Vegetative,Apply nitrogen fertilizer
+maize,40,Tasseling,Ensure proper pollination
+maize,19,Vegetative,Apply nitrogen fertilizer
+maize,65,Silking,Protect from pests
+maize,5,Germination,Keep soil moist
+maize,31,Tasseling,Ensure proper pollination
+maize,80,Maturity,Prepare for harvest
+maize,93,Maturity,Prepare for harvest
+maize,90,Maturity,Prepare for harvest
+maize,8,Vegetative,Apply nitrogen fertilizer
+maize,24,Vegetative,Apply nitrogen fertilizer
+maize,3,Germination,Keep soil moist
+maize,86,Maturity,Prepare for harvest
+maize,65,Silking,Protect from pests
+maize,24,Vegetative,Apply nitrogen fertilizer
+maize,0,Germination,Keep soil moist
+maize,57,Silking,Protect from pests
+maize,59,Silking,Protect from pests
+maize,88,Maturity,Prepare for harvest
+maize,1,Germination,Keep soil moist
+maize,52,Silking,Protect from pests
+maize,69,Silking,Protect from pests
+maize,18,Vegetative,Apply nitrogen fertilizer
+maize,52,Silking,Protect from pests
+maize,16,Vegetative,Apply nitrogen fertilizer
+maize,92,Maturity,Prepare for harvest
+maize,57,Silking,Protect from pests
+maize,30,Vegetative,Apply nitrogen fertilizer
+maize,18,Vegetative,Apply nitrogen fertilizer
+maize,48,Tasseling,Ensure proper pollination
+maize,52,Silking,Protect from pests
+maize,47,Tasseling,Ensure proper pollination
+maize,56,Silking,Protect from pests
+maize,6,Germination,Keep soil moist
+maize,76,Maturity,Prepare for harvest
+maize,6,Germination,Keep soil moist
+maize,30,Vegetative,Apply nitrogen fertilizer
+maize,37,Tasseling,Ensure proper pollination
+maize,6,Germination,Keep soil moist
+maize,33,Tasseling,Ensure proper pollination
+maize,14,Vegetative,Apply nitrogen fertilizer
+maize,3,Germination,Keep soil moist
+maize,77,Maturity,Prepare for harvest
+maize,80,Maturity,Prepare for harvest
+maize,23,Vegetative,Apply nitrogen fertilizer
+maize,4,Germination,Keep soil moist
+maize,24,Vegetative,Apply nitrogen fertilizer
+maize,22,Vegetative,Apply nitrogen fertilizer
+maize,74,Maturity,Prepare for harvest
+maize,24,Vegetative,Apply nitrogen fertilizer
+maize,60,Silking,Protect from pests
+maize,41,Tasseling,Ensure proper pollination
+maize,65,Silking,Protect from pests
+maize,30,Vegetative,Apply nitrogen fertilizer
+maize,65,Silking,Protect from pests
+maize,22,Vegetative,Apply nitrogen fertilizer
+maize,77,Maturity,Prepare for harvest
+maize,6,Germination,Keep soil moist
+maize,43,Tasseling,Ensure proper pollination
+maize,9,Vegetative,Apply nitrogen fertilizer
+maize,77,Maturity,Prepare for harvest
+maize,78,Maturity,Prepare for harvest
+maize,39,Tasseling,Ensure proper pollination
+maize,42,Tasseling,Ensure proper pollination
+cotton,62,Boll Formation,Monitor for bollworms
+cotton,23,Squaring,Spray growth regulators
+cotton,38,Flowering,Irrigate regularly
+cotton,42,Flowering,Irrigate regularly
+cotton,7,Planting,Sow seeds in well-drained soil
+cotton,83,Boll Formation,Monitor for bollworms
+cotton,14,Seedling,Apply basal fertilizer
+cotton,12,Seedling,Apply basal fertilizer
+cotton,18,Seedling,Apply basal fertilizer
+cotton,19,Seedling,Apply basal fertilizer
+cotton,51,Flowering,Irrigate regularly
+cotton,40,Flowering,Irrigate regularly
+cotton,30,Squaring,Spray growth regulators
+cotton,83,Boll Formation,Monitor for bollworms
+cotton,4,Planting,Sow seeds in well-drained soil
+cotton,81,Boll Formation,Monitor for bollworms
+cotton,18,Seedling,Apply basal fertilizer
+cotton,1,Planting,Sow seeds in well-drained soil
+cotton,73,Boll Formation,Monitor for bollworms
+cotton,27,Squaring,Spray growth regulators
+cotton,9,Seedling,Apply basal fertilizer
+cotton,32,Squaring,Spray growth regulators
+cotton,7,Planting,Sow seeds in well-drained soil
+cotton,26,Squaring,Spray growth regulators
+cotton,18,Seedling,Apply basal fertilizer
+cotton,10,Seedling,Apply basal fertilizer
+cotton,9,Seedling,Apply basal fertilizer
+cotton,90,Boll Formation,Monitor for bollworms
+cotton,0,Planting,Sow seeds in well-drained soil
+cotton,9,Seedling,Apply basal fertilizer
+cotton,49,Flowering,Irrigate regularly
+cotton,44,Flowering,Irrigate regularly
+cotton,78,Boll Formation,Monitor for bollworms
+cotton,37,Flowering,Irrigate regularly
+cotton,21,Squaring,Spray growth regulators
+cotton,46,Flowering,Irrigate regularly
+cotton,87,Boll Formation,Monitor for bollworms
+cotton,14,Seedling,Apply basal fertilizer
+cotton,56,Boll Formation,Monitor for bollworms
+cotton,4,Planting,Sow seeds in well-drained soil
+cotton,22,Squaring,Spray growth regulators
+cotton,31,Squaring,Spray growth regulators
+cotton,13,Seedling,Apply basal fertilizer
+cotton,26,Squaring,Spray growth regulators
+cotton,18,Seedling,Apply basal fertilizer
+cotton,5,Planting,Sow seeds in well-drained soil
+cotton,31,Squaring,Spray growth regulators
+cotton,7,Planting,Sow seeds in well-drained soil
+cotton,4,Planting,Sow seeds in well-drained soil
+cotton,15,Seedling,Apply basal fertilizer
+cotton,34,Squaring,Spray growth regulators
+cotton,3,Planting,Sow seeds in well-drained soil
+cotton,50,Flowering,Irrigate regularly
+cotton,19,Seedling,Apply basal fertilizer
+cotton,37,Flowering,Irrigate regularly
+cotton,10,Seedling,Apply basal fertilizer
+cotton,2,Planting,Sow seeds in well-drained soil
+cotton,28,Squaring,Spray growth regulators
+cotton,19,Seedling,Apply basal fertilizer
+cotton,33,Squaring,Spray growth regulators
+cotton,26,Squaring,Spray growth regulators
+cotton,62,Boll Formation,Monitor for bollworms
+cotton,26,Squaring,Spray growth regulators
+cotton,74,Boll Formation,Monitor for bollworms
+cotton,45,Flowering,Irrigate regularly
+cotton,52,Flowering,Irrigate regularly
+cotton,0,Planting,Sow seeds in well-drained soil
+cotton,8,Seedling,Apply basal fertilizer
+cotton,24,Squaring,Spray growth regulators
+cotton,65,Boll Formation,Monitor for bollworms
+cotton,56,Boll Formation,Monitor for bollworms
+cotton,51,Flowering,Irrigate regularly
+cotton,30,Squaring,Spray growth regulators
+cotton,14,Seedling,Apply basal fertilizer
+cotton,22,Squaring,Spray growth regulators
+cotton,61,Boll Formation,Monitor for bollworms
+cotton,1,Planting,Sow seeds in well-drained soil
+cotton,11,Seedling,Apply basal fertilizer
+cotton,1,Planting,Sow seeds in well-drained soil
+cotton,46,Flowering,Irrigate regularly
+cotton,44,Flowering,Irrigate regularly
+cotton,85,Boll Formation,Monitor for bollworms
+cotton,87,Boll Formation,Monitor for bollworms
+cotton,52,Flowering,Irrigate regularly
+cotton,9,Seedling,Apply basal fertilizer
+cotton,84,Boll Formation,Monitor for bollworms
+cotton,46,Flowering,Irrigate regularly
+cotton,23,Squaring,Spray growth regulators
+cotton,4,Planting,Sow seeds in well-drained soil
+cotton,60,Boll Formation,Monitor for bollworms
+cotton,6,Planting,Sow seeds in well-drained soil
+cotton,45,Flowering,Irrigate regularly
+cotton,9,Seedling,Apply basal fertilizer
+cotton,26,Squaring,Spray growth regulators
+cotton,3,Planting,Sow seeds in well-drained soil
+cotton,3,Planting,Sow seeds in well-drained soil
+cotton,1,Planting,Sow seeds in well-drained soil
+cotton,48,Flowering,Irrigate regularly
+cotton,71,Boll Formation,Monitor for bollworms
+cotton,37,Flowering,Irrigate regularly
+groundnut,18,Seedling,Thin excess plants
+groundnut,10,Seedling,Thin excess plants
+groundnut,10,Seedling,Thin excess plants
+groundnut,80,Maturity,Stop irrigation before harvest
+groundnut,3,Sowing,Sow seeds and irrigate
+groundnut,25,Pegging,Ensure loose soil for pegs
+groundnut,82,Maturity,Stop irrigation before harvest
+groundnut,11,Seedling,Thin excess plants
+groundnut,2,Sowing,Sow seeds and irrigate
+groundnut,54,Pod Formation,Apply gypsum and irrigate
+groundnut,16,Seedling,Thin excess plants
+groundnut,8,Seedling,Thin excess plants
+groundnut,46,Pod Formation,Apply gypsum and irrigate
+groundnut,88,Maturity,Stop irrigation before harvest
+groundnut,2,Sowing,Sow seeds and irrigate
+groundnut,18,Seedling,Thin excess plants
+groundnut,27,Pegging,Ensure loose soil for pegs
+groundnut,16,Seedling,Thin excess plants
+groundnut,48,Pod Formation,Apply gypsum and irrigate
+groundnut,23,Pegging,Ensure loose soil for pegs
+groundnut,10,Seedling,Thin excess plants
+groundnut,20,Seedling,Thin excess plants
+groundnut,35,Pegging,Ensure loose soil for pegs
+groundnut,87,Maturity,Stop irrigation before harvest
+groundnut,6,Sowing,Sow seeds and irrigate
+groundnut,18,Seedling,Thin excess plants
+groundnut,46,Pod Formation,Apply gypsum and irrigate
+groundnut,55,Pod Formation,Apply gypsum and irrigate
+groundnut,12,Seedling,Thin excess plants
+groundnut,65,Maturity,Stop irrigation before harvest
+groundnut,47,Pod Formation,Apply gypsum and irrigate
+groundnut,20,Seedling,Thin excess plants
+groundnut,18,Seedling,Thin excess plants
+groundnut,54,Pod Formation,Apply gypsum and irrigate
+groundnut,72,Maturity,Stop irrigation before harvest
+groundnut,78,Maturity,Stop irrigation before harvest
+groundnut,77,Maturity,Stop irrigation before harvest
+groundnut,32,Pegging,Ensure loose soil for pegs
+groundnut,85,Maturity,Stop irrigation before harvest
+groundnut,5,Sowing,Sow seeds and irrigate
+groundnut,21,Pegging,Ensure loose soil for pegs
+groundnut,25,Pegging,Ensure loose soil for pegs
+groundnut,3,Sowing,Sow seeds and irrigate
+groundnut,34,Pegging,Ensure loose soil for pegs
+groundnut,34,Pegging,Ensure loose soil for pegs
+groundnut,87,Maturity,Stop irrigation before harvest
+groundnut,31,Pegging,Ensure loose soil for pegs
+groundnut,5,Sowing,Sow seeds and irrigate
+groundnut,28,Pegging,Ensure loose soil for pegs
+groundnut,38,Pod Formation,Apply gypsum and irrigate
+groundnut,16,Seedling,Thin excess plants
+groundnut,48,Pod Formation,Apply gypsum and irrigate
+groundnut,14,Seedling,Thin excess plants
+groundnut,33,Pegging,Ensure loose soil for pegs
+groundnut,1,Sowing,Sow seeds and irrigate
+groundnut,65,Maturity,Stop irrigation before harvest
+groundnut,32,Pegging,Ensure loose soil for pegs
+groundnut,33,Pegging,Ensure loose soil for pegs
+groundnut,71,Maturity,Stop irrigation before harvest
+groundnut,79,Maturity,Stop irrigation before harvest
+groundnut,59,Pod Formation,Apply gypsum and irrigate
+groundnut,7,Sowing,Sow seeds and irrigate
+groundnut,63,Maturity,Stop irrigation before harvest
+groundnut,2,Sowing,Sow seeds and irrigate
+groundnut,75,Maturity,Stop irrigation before harvest
+groundnut,83,Maturity,Stop irrigation before harvest
+groundnut,41,Pod Formation,Apply gypsum and irrigate
+groundnut,27,Pegging,Ensure loose soil for pegs
+groundnut,9,Seedling,Thin excess plants
+groundnut,4,Sowing,Sow seeds and irrigate
+groundnut,74,Maturity,Stop irrigation before harvest
+groundnut,63,Maturity,Stop irrigation before harvest
+groundnut,67,Maturity,Stop irrigation before harvest
+groundnut,88,Maturity,Stop irrigation before harvest
+groundnut,14,Seedling,Thin excess plants
+groundnut,29,Pegging,Ensure loose soil for pegs
+groundnut,2,Sowing,Sow seeds and irrigate
+groundnut,24,Pegging,Ensure loose soil for pegs
+groundnut,5,Sowing,Sow seeds and irrigate
+groundnut,77,Maturity,Stop irrigation before harvest
+groundnut,11,Seedling,Thin excess plants
+groundnut,4,Sowing,Sow seeds and irrigate
+groundnut,17,Seedling,Thin excess plants
+groundnut,34,Pegging,Ensure loose soil for pegs
+groundnut,31,Pegging,Ensure loose soil for pegs
+groundnut,73,Maturity,Stop irrigation before harvest
+groundnut,49,Pod Formation,Apply gypsum and irrigate
+groundnut,67,Maturity,Stop irrigation before harvest
+groundnut,60,Pod Formation,Apply gypsum and irrigate
+groundnut,10,Seedling,Thin excess plants
+groundnut,49,Pod Formation,Apply gypsum and irrigate
+groundnut,33,Pegging,Ensure loose soil for pegs
+groundnut,6,Sowing,Sow seeds and irrigate
+groundnut,20,Seedling,Thin excess plants
+groundnut,10,Seedling,Thin excess plants
+groundnut,3,Sowing,Sow seeds and irrigate
+groundnut,10,Seedling,Thin excess plants
+groundnut,6,Sowing,Sow seeds and irrigate
+groundnut,31,Pegging,Ensure loose soil for pegs
+groundnut,27,Pegging,Ensure loose soil for pegs
